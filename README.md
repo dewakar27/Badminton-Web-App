@@ -1,4 +1,4 @@
-ShuttleFix / Badminton Web App 🏸
+Deju Badminton / Badminton Web App 🏸
 
 A modern badminton scoreboard and tournament web app built with HTML, CSS, and JavaScript. This project is designed to provide a clean and interactive experience for badminton players, clubs, and tournament organizers.
 
